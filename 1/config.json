@@ -1,0 +1,11 @@
+[{
+	"type": 1,
+	"step": 1,
+	"change": true,
+	"params": {
+		"lut": "chu-lut.png",
+		"intensity_max": 1.0,
+		"intensity_min": 0.0
+	}
+}
+]
